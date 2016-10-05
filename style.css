@@ -1,0 +1,64 @@
+.ui.borderless.top.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  margin-top:20px;
+}
+
+.ui.borderless.middle.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  font-size: larger;
+}
+
+.center.text {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: 70px;
+  letter-spacing: 3px;
+}
+
+.grad-background {
+  background: url(http://global.canon/en/img/top/key-visual16080801.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.colorblocktop {
+  padding-top: 225px;
+}
+
+.middle {
+  background-color: white;
+  height: 50px;
+  padding-top: 25px;
+}
+
+.footer {
+  background-color: #292929;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.tuown {
+  color: black;
+}
+
+.fown {
+  color: #3b5998;
+}
+
+.twown {
+  color: #4099FF;
+}
+
+.pwon {
+  color: orangered;
+}
+
+.rown {
+  color: orange;
+}
